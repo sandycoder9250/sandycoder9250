@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm sandeep mishra</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
-- 🌱 I’m currently learning **java**
+- I’m currently learning **java**
+- 🌱 I’m currently work on**Fronted**
 
-- 💬 Ask me about **software developer**
+- 💬 Ask me about **Fronted/backend  developer and DSA** 
 
 - 📫 How to reach me **mishraji9250813@gmail.com**
 
